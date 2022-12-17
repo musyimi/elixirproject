@@ -6,6 +6,6 @@ defmodule Project.CLI.Main do
   end
 
   defp welcome_message do
-    Shell.info("=== Wecome to Nairobi Metropolitan Hospital ===")
+    Shell.info("=== Welcome to Nairobi Metropolitan Hospital ===")
   end
 end
