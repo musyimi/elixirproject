@@ -1,4 +1,4 @@
-defmodule Project.Character do
+defmodule Project.Person do
   defstruct title: nil,
   first_name: nil,
   middle_name: nil,
